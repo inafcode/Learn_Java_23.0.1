@@ -4,6 +4,7 @@ public class TipeDataBukanPrimitif {
 
         Integer iniInteger = iniInt;
 
+
         long iniLong = iniInteger.longValue();
         byte iniByte = iniInteger.byteValue();
 
